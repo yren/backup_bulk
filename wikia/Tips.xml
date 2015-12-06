@@ -1,0 +1,66 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.6/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.6/ http://www.mediawiki.org/xml/export-0.6.xsd" version="0.6" xml:lang="en">
+  <siteinfo>
+    <sitename>Lokvin Wiki</sitename>
+    <base>http://lokvin.wikia.com/wiki/Lokvin_Wiki</base>
+    <generator>MediaWiki 1.19.24</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Lokvin Wiki</namespace>
+      <namespace key="5" case="first-letter">Lokvin Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tips</title>
+    <ns>0</ns>
+    <id>2093</id>
+      <sha1>18fo3uteeq05vh8c16dtcq3h24y9295</sha1>
+    <revision>
+      <id>5009</id>
+      <timestamp>2015-11-12T14:00:06Z</timestamp>
+      <contributor>
+        <username>Lokvin</username>
+        <id>17700452</id>
+      </contributor>
+      <comment>/* Chrome tips */</comment>
+      <text xml:space="preserve" bytes="516">==rcom tips ==
+[[rcom tips]] - rcom tips
+* http://10.90.22.6/reutersmediawiki/index.php/BjMediaDev/SelfDev/Yufei_Ren/Tips - tips on media wiki
+* https://thehub.thomsonreuters.com/docs/DOC-697156 - tips on thehub
+
+==switch rcom dev env ==
+* switch network use rcom dns
+* switch maven settings.xml use rcom maven repo
+
+==foxyproxy addon set blacklist ==
+'''Please note that all patterns -- white and black -- are ignored when FoxyProxy is set to &quot;Use proxy ABC for all URLs&quot;.'''
+* http://getfoxyproxy.org/patterns.html</text>
+    </revision>
+  </page>
+</mediawiki>
