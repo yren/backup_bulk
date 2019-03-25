@@ -4,7 +4,7 @@
 * backup mediawiki xml
 * https://www.mediawiki.org/wiki/Manual:DumpBackup.php
 ```
-php dumpBackup.php --full > dump.xml
+/var/www/html# php ./maintenance/dumpBackup.php --full > /var/www/data/wiki_dump_20190325.xml
 ```
 
 * import backup xml
